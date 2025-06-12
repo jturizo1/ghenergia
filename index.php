@@ -73,7 +73,7 @@
       <!--== Start Header Navigation ==-->
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="tr-icon ion-android-menu"></i> </button>
-        <div class="logo"> <a href="index.html"> <img class="logo logo-display" src="assets/images/logo-white.png" alt=""> <img class="logo logo-scrolled" src="assets/images/logo-black.png" alt=""> </a> </div>
+        <div class="logo"> <a href="#"> <img class="logo logo-display" src="assets/images/logo-white.png" alt=""> <img class="logo logo-scrolled" src="assets/images/logo-black.png" alt=""> </a> </div>
       </div>
       <!--== End Header Navigation ==-->
 
@@ -82,44 +82,19 @@
         <ul class="nav navbar-nav navbar-center" data-in="fadeIn" data-out="fadeOut">
           <li><a class="page-scroll" href="#home">Principal</a></li>
           <li><a class="page-scroll" href="#feature">Mision & Vision</a></li>
-          <li><a class="page-scroll" href="#proceso">Nuestro Proceso</a></li>
+          <li><a class="page-scroll" href="#proceso">Nuestros Procesos</a></li>
           <li><a class="page-scroll" href="#service">Servicios</a></li>
           <li><a class="page-scroll" href="#multimedia">Multimedia</a></li>
           <li><a class="page-scroll" href="#portfolio">Portafolio</a></li>
           <!--<li><a class="page-scroll" href="#pricing">Pricings</a></li>
           <li><a class="page-scroll" href="#blog">Blog</a></li>-->
+          <li><a class="page-scroll" href="#ubicacion">Ubicación</a></li>
           <li><a class="page-scroll" href="#contact">Contactenos</a></li>
         </ul>
       </div>
       <!--== /.navbar-collapse ==-->
     </div>
 
-    <!-- Start Side Menu -->
-    <!--<div class="side gradient-bg">
-    		<a href="index.html" class="logo-side"><img src="assets/images/logo-full-light.png" alt="side-logo"/></a>
-            <a href="#" class="close-side"><i class="icofont icofont-close"></i></a>
-            <div class="widget mt-120">
-              <ul class="link">
-                <li class="link-item"><a class="page-scroll" href="#home">Principal</a></li>
-                <li class="link-item"><a class="page-scroll" href="#feature">Features</a></li>
-                <li class="link-item"><a class="page-scroll" href="#team">Team</a></li>
-                <li class="link-item"><a class="page-scroll" href="#service">Services</a></li>
-                <li class="link-item"><a class="page-scroll" href="#about">About</a></li>
-                <li class="link-item"><a class="page-scroll" href="#portfolio">Portfolio</a></li>
-                <li class="link-item"><a class="page-scroll" href="#pricing">Pricings</a></li>
-                <li class="link-item"><a class="page-scroll" href="#blog">Blog</a></li>
-                <li class="link-item"><a class="page-scroll" href="#contact">Contactenos</a></li>
-              </ul>
-            </div>
-            <ul class="social-media">
-              <li><a href="#" class="icofont icofont-social-facebook"></a></li>
-              <li><a href="#" class="icofont icofont-social-twitter"></a></li>
-              <li><a href="#" class="icofont icofont-social-behance"></a></li>
-              <li><a href="#" class="icofont icofont-social-dribble"></a></li>
-              <li><a href="#" class="icofont icofont-social-linkedin"></a></li>
-            </ul>
-     </div>-->
-     <!-- End Side Menu -->
 
   </nav>
   <!--== Header End ==-->
@@ -132,10 +107,10 @@
         <div class="col-md-12 col-sm-12 col-xs-12 display-table view-height-100vh">
           <div class="v-align-middle text-center">
             <div class="white-color text-center">
-              <h1 class="font-100 raleway-font font-80px line-height-80 xs-font-20px xs-line-height-20">Video Background</h1>
-              <h4 class="font-700 font-40px line-height-40">One Page Parallax</h4>
-              <p class="mt-30">
-                <a class="btn btn-lg btn-light btn-circle">Get Started</a>
+              <h1 class="font-100 raleway-font font-80px line-height-80 xs-font-20px xs-line-height-20">GHENERGIA</h1>
+              <h4 class="font-700 font-40px line-height-40">LO HACEMOS POSIBLE</h4>
+              <p class="mt-30"><!--
+                <a class="btn btn-lg btn-light btn-circle">Get Started</a>-->
               </p>
             </div>
           </div>
@@ -189,7 +164,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-title mb-50 white-color text-center">
-              <h1 class="raleway-font mt-0 font-50px font-300">Nuestro Proceso</h1>
+              <h1 class="raleway-font mt-0 font-50px font-300">Nuestros Procesos</h1>
             </div>
           </div>
         </div>
@@ -201,8 +176,9 @@
               </div>
             </div>
             <div class="text-center white-color">
-              <h4 class="font-500">Diseño</h4>
-              <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Proin ut tempor nisl sit amet tincidunt orci.</p>
+              <h4 class="font-500">Diseñar</h4>
+              <p class="mb-0">Se realiza un análisis técnico y estratégico para diseñar soluciones personalizadas en sistemas eléctricos, 
+                respaldo energético y climatización. Se consideran las necesidades específicas de cada cliente para garantizar eficiencia, seguridad y continuidad operativa.</p>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12 line xs-mb-30 sm-mb-30">
@@ -212,8 +188,9 @@
               </div>
             </div>
             <div class="text-center white-color">
-              <h4 class="font-500">Desarrollo</h4>
-              <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Proin ut tempor nisl sit amet tincidunt orci.</p>
+              <h4 class="font-500">Desarrollar</h4>
+              <p class="mb-0">Con base en el diseño aprobado, se desarrollan los sistemas eléctricos y de respaldo de energía, así como planes de mantenimiento
+                 especializados para equipos de aire acondicionado y UPS entre otros. Se utilizan equipos y tecnologías de alta calidad, alineadas con normativas nacionales.</p>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12 line xs-mb-30">
@@ -223,8 +200,9 @@
               </div>
             </div>
             <div class="text-center white-color">
-              <h4 class="font-500">Implementacion</h4>
-              <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Proin ut tempor nisl sit amet tincidunt orci.</p>
+              <h4 class="font-500">Implementar</h4>
+              <p class="mb-0">Se lleva a cabo la instalación, configuración y conexión de todos los sistemas diseñados, incluyendo tableros eléctricos, 
+                bancos de baterías, UPS, y sistemas de aire acondicionado. El equipo técnico se asegura de que cada componente funcione de manera óptima y segura.</p>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12 line xs-mb-30">
@@ -234,127 +212,16 @@
               </div>
             </div>
             <div class="text-center white-color">
-              <h4 class="font-500">Pruebas</h4>
-              <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Proin ut tempor nisl sit amet tincidunt orci.</p>
+              <h4 class="font-500">Puesta en Marcha</h4>
+              <p class="mb-0">Una vez implementados los sistemas, se realiza la puesta en marcha con pruebas funcionales, verificación de parámetros, 
+                y ajustes finales. Se entrega al cliente una solución operativa, eficiente y lista para su uso, acompañada de manuales, capacitación y soporte técnico.</p>
             </div>
           </div>
         </div>
     </div>
   </section>
   <!--== Our Process End ==-->
-
-  <!--== Who We Are Start ==
-  <section class="white-bg">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 col-sm-23 text-left sm-mt-0">
-          <div class="section-title mb-50">
-            <h2 class="raleway-font secondary-color mt-0">Becki is creative one page template</h2>
-            <h1 class="raleway-font mt-0 font-50px font-300">Our Awesome <span class="type-it secondary-color"><i class="ti-placeholder" style="display:inline-block;line-height:0;visibility:hidden;overflow:hidden;">.</i><span style="display:inline;position:relative;font:inherit;color:inherit;" class="ti-container">desig</span><span style="display: inline; position: relative; font: inherit; color: inherit; opacity: 0.0106235;" class="ti-cursor">|</span></span></h1>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-          <p class="mt-30 mb-0"><a class="btn btn-lg btn-gradient-secondary btn-circle">Read more</a></p>
-        </div>
-        <div class="col-md-6 col-sm-12">
-            <div class="responsive-screen mt-0">
-              <img src="assets/images/laptop.png" class="img-responsive" alt="laptop">
-            </div>
-        </div>
-      </div>
-    </div>
-  </section>-->
-  <!--== Who We Are End ==-->
-
-  <!--== Team Start ==
-  <section class="grey-bg" id="team">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 centerize-col text-center">
-          <div class="section-title">
-            <h2 class="raleway-font secondary-color">Meet Ninjas</h2>
-            <h1 class="raleway-font">Our Creative Team</h1>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-        </div>
-      </div>
-
-      <div class="row mt-50">
-          <div class="col-md-3 col-sm-6 col-xs-12 sm-mb-30 xs-mb-30">
-            <div class="team-member">
-              <div class="team-thumb">
-                <div class="thumb-overlay"></div>
-                <img src="assets/images/team/team-1.jpg" alt="">
-                <div class="member-info text-center gradient-bg-two">
-                  <h3>Tom Bills</h3>
-                  <span class="title">Web Designer</span>
-                  <ul class="social-link list-inline">
-                    <li><a href="#" class="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
-                    <li><a href="#" class="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
-                    <li><a href="#" class="pinterest"><i class="icofont icofont-social-pinterest"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col-md-3 col-sm-6 col-xs-12 sm-mb-30 xs-mb-30">
-            <div class="team-member">
-              <div class="team-thumb">
-                <div class="thumb-overlay"></div>
-                <img src="assets/images/team/team-2.jpg" alt="">
-                <div class="member-info text-center gradient-bg">
-                  <h3>Sara Adams</h3>
-                  <span class="title">CEO of Becki Agency</span>
-                  <ul class="social-link list-inline">
-                    <li><a href="#" class="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
-                    <li><a href="#" class="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
-                    <li><a href="#" class="pinterest"><i class="icofont icofont-social-pinterest"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col-md-3 col-sm-6 col-xs-12 sm-mb-30 xs-mb-30">
-            <div class="team-member">
-              <div class="team-thumb">
-                <div class="thumb-overlay"></div>
-                <img src="assets/images/team/team-3.jpg" alt="">
-                <div class="member-info text-center gradient-bg-two">
-                  <h3>Enzo William</h3>
-                  <span class="title">Photographer</span>
-                  <ul class="social-link list-inline">
-                    <li><a href="#" class="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
-                    <li><a href="#" class="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
-                    <li><a href="#" class="pinterest"><i class="icofont icofont-social-pinterest"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <div class="team-member">
-              <div class="team-thumb">
-                <div class="thumb-overlay"></div>
-                <img src="assets/images/team/team-1.jpg" alt="">
-                <div class="member-info text-center gradient-bg-two">
-                  <h3>Tom Bills</h3>
-                  <span class="title">Web Designer</span>
-                  <ul class="social-link list-inline">
-                    <li><a href="#" class="facebook"><i class="icofont icofont-social-facebook"></i></a></li>
-                    <li><a href="#" class="twitter"><i class="icofont icofont-social-twitter"></i></a></li>
-                    <li><a href="#" class="pinterest"><i class="icofont icofont-social-pinterest"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-      </div>
-    </div>
-  </section>-->
-  <!--== Team End ==-->
-
+ 
   <!--== Services Start ==-->
   <section class="white-bg" id="service">
     <div class="container">
@@ -424,67 +291,6 @@
   </section>
   <!--== Services End ==-->
 
-  <!--== About Start ==
-  <section class="gray-bg" id="about">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 centerize-col text-center">
-          <div class="section-title">
-            <h2 class="raleway-font secondary-color">We Are Becki</h2>
-            <h1 class="raleway-font">About Company</h1>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-        </div>
-      </div>
-    	<div class="row mt-50">
-        	<div class="col-md-7 col-xs-12">
-       	    	<img class="img-responsive" src="assets/images/responsive-screen.png" alt="">
-            </div>
-            <div class="col-md-5 mt-30 col-xs-12">
-              <div class="skillbar-wrap skillbar-style-01">
-                <div class="skillbar" data-percent="70">
-                    <span class="skillbar-title text-uppercase">HTML5 Expertise</span>
-                    <p class="skillbar-bar gradient-bg-two"></p>
-                    <span class="skill-bar-percent">70%</span>
-                </div>
-                
-
-                <div class="skillbar" data-percent="66">
-                    <span class="skillbar-title text-uppercase">jQuery Expertise</span>
-                    <p class="skillbar-bar gradient-bg-two"></p>
-                    <span class="skill-bar-percent">66%</span>
-                </div>
-                
-
-                <div class="skillbar" data-percent="85">
-                    <span class="skillbar-title text-uppercase">WordPress Expertise</span>
-                    <p class="skillbar-bar gradient-bg-two"></p>
-                    <span class="skill-bar-percent">85%</span>
-                </div>
-               
-
-                <div class="skillbar" data-percent="30">
-                    <span class="skillbar-title text-uppercase">PHP Expertise</span>
-                    <p class="skillbar-bar gradient-bg-two"></p>
-                    <span class="skill-bar-percent">30%</span>
-                </div>
-                
-
-                <div class="skillbar" data-percent="99">
-                    <span class="skillbar-title text-uppercase">User Interface Expertise</span>
-                    <p class="skillbar-bar gradient-bg-two"></p>
-                    <span class="skill-bar-percent">99%</span>
-                </div>
-                
-
-              </div>
-            </div>
-        </div>
-    </div>
-  </section>
-  -->
-  <!--== About End ==-->
-
   <!--== About Company Start ==-->
   <section class="gradient-bg-two xs-pb-60" id="multimedia">
     <div class="container">
@@ -527,11 +333,93 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
           <div class="section-title">
             <h2 class="raleway-font secondary-color">Nuestra</h2>
             <h1 class="raleway-font">Galeria de Imagenes</h1>
-          </div>
+          </div><!-- 
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-        </div>
+        --></div>
       </div>
     </div>
+
+
+  <!-- GALERIA DE PRUEBA -->
+
+  <style>
+    .gallery-img {
+      height: 380px;
+      width: 350px;
+      transition: transform 0.3s ease;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .zoom-container {
+      overflow: hidden;
+      
+    }
+
+    .zoom-container:hover .gallery-img {
+      transform: scale(1.1);
+    }
+    .py-4{
+      padding-left:8%;
+      padding-right:8%;
+    }
+  </style>
+
+  <div class="container-full py-4">
+  
+  <div class="row g-2">
+    <div class="col-6 col-md-4 col-lg-3">
+        <div class="zoom-container">
+          <img src="assets/images/portfolio/grid/IMG1.jpg" class="img-fluid gallery-img" alt="Servicio 1">
+        </div>
+        <p class="text-center">Bancos de Baterias</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG2.jpg" class="img-fluid gallery-img" alt="Servicio 2">
+      </div>
+      <p class="text-center">UPS</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG3.jpg" class="img-fluid gallery-img" alt="Servicio 3">
+      </div>
+      <p class="text-center">Aires Acondicionados</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG4.png" class="img-fluid gallery-img" alt="Servicio 4">
+      </div>
+      <p class="text-center">CCTV</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG5.jpg" class="img-fluid gallery-img" alt="Servicio 5">
+      </div>
+      <p class="text-center">Motores Electricos</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG6.jpg" class="img-fluid gallery-img" alt="Servicio 6">
+      </div>
+      <p class="text-center">Cableado Estructurado</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG7.jpg" class="img-fluid gallery-img" alt="Servicio 7">
+      </div>
+      <p class="text-center">Tableros Electricos</p>
+    </div>
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="zoom-container">
+        <img src="assets/images/portfolio/grid/IMG8.png" class="img-fluid gallery-img" alt="Servicio 8">
+      </div>
+      <p class="text-center">Acumuladores Industriales</p>
+    </div>
+  </div>
+</div>
+  <!-- GALERIA DE PRUEBA -->
+  <!--
     <div class="container-fluid">
       <div class="row mt-50">
         <div class="col-md-12">
@@ -543,8 +431,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                   <div class="portfolio-info gradient-bg-two">
                       <div class="centrize">
                         <div class="v-center white-color">
-                          <h3>Old Book</h3>
-                          <p>Branding, Mockup</p>
+                          <h3>Bancos de Baterias</h3>
                         </div>
                       </div>
                     </div>
@@ -559,8 +446,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                   <div class="portfolio-info gradient-bg-two">
                       <div class="centrize">
                         <div class="v-center white-color">
-                          <h3>Fashion Shop</h3>
-                          <p>Branding, UI/UX</p>
+                          <h3>UPS</h3>
                         </div>
                       </div>
                     </div>
@@ -664,7 +550,9 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                     </div>
                 </a>
               </div>
-            </div>
+            </div>-->
+
+
           </div>
         </div>
 
@@ -674,182 +562,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
 
   <!--== Portfolio End ==-->
 
-  <!--== Video Start ==-->
-  <!--<section class="parallax-bg fixed-bg" data-parallax-bg-image="assets/images/background/parallax-bg-2.jpg" data-parallax-speed="0.5" data-parallax-direction="up">
-  	<div class="gradient-overlay-bg"></div>
-  	<div class="container">
-  		<div class="row">
-  			<div class="col-md-12 text-center parallax-content height-400px">
-  				<div class="center-layout">
-                <div class="v-align-middle">
-      					   <h1 class="font-400 white-color raleway-font xs-font-40px">We Make Themes That Solve Problems. Sometimes We Tell Stories.</h1>
-                </div>
-              </div>
-  			</div>
-  		</div>
-  	</div>
-  </section>-->
-  <!--== Video End ==-->
-
-  <!--== Pricing Table Start ==-->
-  <!--
-  <section class="grey-bg transition-none" id="pricing">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 centerize-col text-center">
-          <div class="section-title mb-50">
-            <h2 class="raleway-font secondary-color">Select Your Plan</h2>
-            <h1 class="raleway-font">Our Pricing Table</h1>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-        </div>
-      </div>
-        <div class="row mt-50">
-          <div class="col-md-4 pricing-table col-sm-4 xs-mb-30">
-            <div class="pricing-box pricing-box-gradient-two text-center white-color">
-              <h3 class="mb-0 raleway-font">Basic Plan</h3>
-              <h4>An affordable option for end-to-end hiring at small companies.</h4>
-              <h2 class="font-60px sm-font-50px"><sup>$</sup><span>9.99</span></h2>
-              <ul class="list-style-02">
-              	<li>Mobile-Optimized Website</li>
-                  <li>Powerful Website Metrics</li>
-                  <li>Free Custom Domain</li>
-                  <li>24/7 Customer Support</li>
-                  <li>Fully Integrated E-Commerce</li>
-                  <li>Sell Unlimited Products &amp; Accept Donations</li>
-                  <li class="not-available">No CMS items</li>
-                  <li class="not-available">No site search</li>
-                  <li class="not-available">No CMS API access</li>
-                  <li class="not-available">No content editors</li>
-              </ul>
-              <div class="pricing-box-bottom"> <a class="btn btn-dark btn-md btn-default btn-circle">Get Started</a> </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 pricing-table col-sm-4 xs-mb-30">
-            <div class="pricing-box pricing-box-gradient text-center white-color">
-              <h3 class="mb-0 raleway-font">Standard Plan</h3>
-              <h4>An affordable option for end-to-end hiring at small companies.</h4>
-              <h2 class="font-60px sm-font-50px"><sup>$</sup><span>16.99</span></h2>
-              <div class="pricicng-feature">
-                  <ul class="list-style-02">
-                      <li>Mobile-Optimized Website</li>
-                      <li>Powerful Website Metrics</li>
-                      <li>Free Custom Domain</li>
-                      <li>24/7 Customer Support</li>
-                      <li>Fully Integrated E-Commerce</li>
-                      <li>Sell Unlimited Products &amp; Accept Donations</li>
-                      <li>No CMS items</li>
-                      <li>No site search</li>
-                      <li class="not-available">No CMS API access</li>
-                      <li class="not-available">No content editors</li>
-              	</ul>
-              </div>
-              <div class="pricing-box-bottom"> <a class="btn btn-dark btn-md btn-default btn-circle">Get Started</a> </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 pricing-table col-sm-4">
-            <div class="pricing-box pricing-box-gradient-two text-center white-color">
-              <h3 class="mb-0 raleway-font">Extended Plan</h3>
-              <h4>An affordable option for end-to-end hiring at small companies.</h4>
-              <h2 class="font-60px sm-font-50px"><sup>$</sup><span>24.99</span></h2>
-              <ul class="list-style-02">
-              	<li>Mobile-Optimized Website</li>
-                  <li>Powerful Website Metrics</li>
-                  <li>Free Custom Domain</li>
-                  <li>24/7 Customer Support</li>
-                  <li>Fully Integrated E-Commerce</li>
-                  <li>Sell Unlimited Products &amp; Accept Donations</li>
-                  <li>No CMS items</li>
-                  <li>No site search</li>
-                  <li>No CMS API access</li>
-                  <li>No content editors</li>
-              </ul>
-              <div class="pricing-box-bottom"> <a class="btn btn-dark btn-md btn-default btn-circle">Get Started</a> </div>
-            </div>
-          </div>
-        </div>
-    </div>
-  </section>
-  -->
-  <!--== Pricing Table End ==-->
-
-  <!--== Testimonails Start ==-->
-  <!--
-  <section class="white-bg">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 centerize-col text-center">
-          <div class="section-title mb-50">
-            <h2 class="raleway-font secondary-color">What Our Client Says</h2>
-            <h1 class="raleway-font">Our Testimonials</h1>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ex ac velit varius semper. Mauris at dolor nec ante ultricies aliquam ac vitae diam. Quisque sodales vehicula elementum. Phasellus tempus tellus vitae ullamcorper hendrerit.</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="slick testimonial gradient-bullet-two">
-        	<div class="col-md-4 col-sm-6 col-xs-12">
-        		
-				<div class="testimonial-item">
-				  <div class="testimonial-content">
-				  	<img class="img-responsive img-circle text-center" src="assets/images/team/avatar-1.jpg" alt="avatar-1"/>
-					<h4 class="font-600 mb-0 raleway-font">Anne McAdams</h4>
-					<span class="secondary-color font-14px">CEO / Founder</span>
-          <div class="clearfix mb-20"></div>
-          <i class="icofont icofont-quote-left font-50px secondary-color mt-20"></i>
-					<p class="mt-20 line-height-26 font-14px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales nec nulla ac aliquet. Duis vel nunc eget.</p>
-				  </div>
-				</div>
-        	</div>
-
-        	<div class="col-md-4 col-sm-6 col-xs-12">
-        		
-				<div class="testimonial-item">
-				  <div class="testimonial-content">
-				  	<img class="img-responsive img-circle text-center" src="assets/images/team/avatar-2.jpg" alt="avatar-2"/>
-            <h4 class="font-600 mb-0 raleway-font">Jared Kane</h4>
-  					<span class="secondary-color font-14px">CEO / Founder</span>
-            <div class="clearfix mb-20"></div>
-            <i class="icofont icofont-quote-left font-50px secondary-color mt-20"></i>
-					<p class="mt-20 line-height-26 font-14px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales nec nulla ac aliquet. Duis vel nunc eget.</p>
-				  </div>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-6 col-xs-12">
-				
-				<div class="testimonial-item">
-				  <div class="testimonial-content"> <img class="img-responsive img-circle" src="assets/images/team/avatar-3.jpg" alt="avatar-1"/>
-            <h4 class="font-600 mb-0 raleway-font">Nani Wale</h4>
-            <span class="secondary-color font-14px">CEO / Founder</span>
-            <div class="clearfix mb-20"></div>
-            <i class="icofont icofont-quote-left font-50px secondary-color mt-20"></i>
-					<p class="mt-20 line-height-26 font-14px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales nec nulla ac aliquet. Duis vel nunc eget.</p>
-				  </div>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-6 col-xs-12">
-        		
-				<div class="testimonial-item">
-				  <div class="testimonial-content"> <img class="img-responsive img-circle" src="assets/images/team/avatar-4.jpg" alt="avatar-1"/>
-            <h4 class="font-600 mb-0 raleway-font">John Doe</h4>
-            <span class="secondary-color font-14px">CEO / Founder</span>
-            <div class="clearfix mb-20"></div>
-            <i class="icofont icofont-quote-left font-50px secondary-color mt-20"></i>
-					<p class="mt-20 line-height-26 font-14px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales nec nulla ac aliquet. Duis vel nunc eget.</p>
-				  </div>
-				</div>
-        	</div>
-
-		</div>
-      </div>
-    </div>
-  </section>
-  -->
-  <!--== Testimonails End ==-->
-
-  <!--== Clients Start ==-->
+  <!--== Clients Start 
   <div class="grey-bg pb-120 pt-120">
     <div class="container">
       <div class="row">
@@ -868,29 +581,25 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
       </div>
     </div>
   </div>
-  <!--== Clients End ==-->
-
-  <!--== Blogs Start ==-->
-  <!--
-  <section class="gradient-bg xs-pb-60" id="blog">
-    <div class="col-md-6 col-sm-6 bg-flex bg-flex-right">
-      <div class="bg-flex-holder bg-flex-cover" style="background-image: url(assets/images/blog-img.jpg);"></div>
-    </div>
-    <div class="container-fluid">
-      <div class="col-md-6 col-sm-6">
-        <div class="col-inner spacer white-color text-center">
-          <h2 class="raleway-font mt-0 font-20px xs-font-17px">Read Our News</h2>
-          <h1 class="raleway-font mt-0 font-50px font-300 xs-font-27px">Latest Blog Post</h1>
-          <p>Objectively innovate empowered manufactured products whereas parallel platforms.<br>
-Holisticly predominate extensible testing procedures for reliable supply chains. </p>
-          <p><a href="#." class="btn btn-md btn-circle btn-light-outline mt-30">See Blog Details</a></p>
-        </div>
-      </div>
-    </div>
-  </section>-->
-  <!--== Blogs End ==-->
+  Clients End ==-->
 
   <!--== Contact Start ==-->
+  <section class="white-bg transition-none" id="ubicacion">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8 centerize-col text-center">
+          <div class="section-title">
+            <h2 class="raleway-font secondary-color">Nuestra</h2>
+            <h1 class="raleway-font">Ubicación</h1>
+          </div>
+        </div>
+        <!-- <div id="map-style-3" class="wide"></div>-->
+         <div class="row">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.1609071242683!2d-74.10723469443371!3d4.565080395040407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f99171f7a861b%3A0xb6b960229455f7e1!2sCl.%2043%20Sur%20%2311b-05%2C%20Rafael%20Uribe%20Uribe%2C%20Bogot%C3%A1%2C%20Cundinamarca!5e0!3m2!1ses!2sco!4v1743694306162!5m2!1ses!2sco" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         </div>
+        </div>
+    </div>
+  </section>
   <section class="white-bg transition-none" id="contact">
     <div class="container">
       <div class="row">
@@ -903,14 +612,6 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
           <p>En nuestra empresa estamos comprometidos con brindar soluciones integrales en mantenimiento, instalación y suministro de sistemas eléctricos, energéticos y de seguridad. Si necesita asistencia en la instalación y mantenimiento de plantas eléctricas, UPS, sistemas de transferencia automática, aires acondicionados, redes eléctricas o sistemas de seguridad como CCTV y control de acceso, estamos aquí para ayudarle.</p>
           <p>Contamos con un equipo de expertos listos para asesorarle en sus proyectos industriales, comerciales o residenciales, garantizando calidad, eficiencia y cumplimiento de los más altos estándares técnicos. No dude en contactarnos para conocer más sobre nuestros servicios y cómo podemos ofrecerle soluciones a la medida de sus necesidades.</p>
        </div>
-    </div>
-    <div class="container-fluid">
-      <div class="row mt-50">
-        <!-- <div id="map-style-3" class="wide"></div>-->
-         <div class="row">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.1609071242683!2d-74.10723469443371!3d4.565080395040407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f99171f7a861b%3A0xb6b960229455f7e1!2sCl.%2043%20Sur%20%2311b-05%2C%20Rafael%20Uribe%20Uribe%2C%20Bogot%C3%A1%2C%20Cundinamarca!5e0!3m2!1ses!2sco!4v1743694306162!5m2!1ses!2sco" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-         </div>
-        </div>
     </div>
     <div class="container">
       <div class="row mt-70">
@@ -1021,7 +722,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-xs-12">
-            <div class="copy-right text-left">© 2025 GHENERGIA. Todos los derechos reservados</div>
+            <div class="copy-right text-left">© 2025 GHENERGIA.</div>
           </div>
           <div class="col-md-6 col-xs-12">
             <ul class="social-media">
@@ -1065,6 +766,5 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
 <script src="revolution/js/revolution.extension.slideanims.min.js"></script>
 <script src="revolution/js/revolution.extension.video.min.js"></script>
 <!--== Javascript Plugins End ==-->
-
 </body>
 </html>
