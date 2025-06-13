@@ -13,6 +13,7 @@
 -->
 <!-- Core Style Sheets -->
 <link rel="stylesheet" href="assets/css/master.css">
+<link rel="stylesheet" href="assets/css/style.css">
 <!-- Responsive Style Sheets -->
 <link rel="stylesheet" href="assets/css/responsive.css">
 <!-- Revolution Style Sheets -->
@@ -291,7 +292,34 @@
   </section>
   <!--== Services End ==-->
 
-  <!--== About Company Start ==-->
+  <!--== Seccion Video ==-->
+  <section class=" xs-pb-60" id="multimedia">
+    <div class="row">
+      <div class="col-md-6">
+       <div class="video-container shadow-lg rounded overflow-hidden video-hover">
+          <video class="w-100 rounded" controls autoplay muted loop playsinline>
+            <source src="assets/videos/video2.mp4" type="video/mp4">
+            Tu navegador no soporta la etiqueta de video.
+          </video>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h3>TU LO IMAGINAS</h3>
+        <H1>LO HACEMOS POSIBLE</H1>
+          <div class="col-md-6"><br>
+            <P class="text-justify">En GHenergia apostamos por la innovación constante y un firme compromiso con el cliente, para ofrecer soluciones que realmente marcan la diferencia.</P>
+            <p>Contacta nuestro servicio de consultaria para tener una visión mas clara de lo que deseas.</p><br>
+            <a href="#contact">
+              <button class="page-scroll btn btn-primary">Contacto</button>
+            </a>
+          </div>
+          <div class="col-md-6">
+            <img style="width:auto; height:250px;" src="assets/images/IMG1.png" alt="imagen">
+          </div>
+      </div>
+    </div>
+  </section> 
+  <!--
   <section class="gradient-bg-two xs-pb-60" id="multimedia">
     <div class="container">
       <div class="row">
@@ -322,8 +350,8 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
         </div>
       </div>
     </div>
-  </section>
-  <!--== About Company End ==-->
+  </section> -->
+  <!--== Seccion Video ==-->
 
   <!--== Portfolio Start ==-->
   <section class="grey-bg" id="portfolio">

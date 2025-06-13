@@ -1,0 +1,13 @@
+   .video-container {
+      max-width: 720px;
+      margin: auto;
+      
+    }
+
+    .video-hover:hover {
+      transform: scale(1.02);
+      transition: transform 0.3s ease;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
