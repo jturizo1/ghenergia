@@ -63,14 +63,6 @@
     </div>
     <!--== End Top Search ==-->
     <div class="container">
-      <!--== Start Atribute Navigation ==
-      <div class="attr-nav hidden-xs sm-display-none">
-        <ul>
-          <li class="side-menu"><a href="#"><i class="icofont icofont-navigation-menu"></i></a></li>
-        </ul>
-      </div>
-      == End Atribute Navigation ==-->
-
       <!--== Start Header Navigation ==-->
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="tr-icon ion-android-menu"></i> </button>
@@ -319,38 +311,6 @@
       </div>
     </div>
   </section> 
-  <!--
-  <section class="gradient-bg-two xs-pb-60" id="multimedia">
-    <div class="container">
-      <div class="row">
-        <h1>hola</h1>
-      </div>
-      
-    </div>
-    <div class="col-md-6 col-sm-6 bg-flex bg-flex-left">
-
-      <div class="bg-flex-holder bg-flex-cover" style="background-image: url(assets/images/bg-left-img-2.jpg);">
-        <div class="video-box_overlay">
-          <div class="center-layout">
-          <div class="v-align-middle"> <a class="popup-youtube" href="https://www.youtube.com/watch?v=sU3FkzUKHXU">
-            <div class="play-button"><i class="tr-icon ion-android-arrow-dropright"></i></div>
-            </a> </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container-fluid">
-      <div class="col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6">
-        <div class="col-inner spacer white-color text-center">
-          <h2 class="raleway-font mt-0 font-20px xs-font-17px">Our Amazing Story</h2>
-          <h1 class="raleway-font mt-0 font-50px font-300 xs-font-27px">Watch Our Video</h1>
-          <p>Objectively innovate empowered manufactured products whereas parallel platforms.<br>
-Holisticly predominate extensible testing procedures for reliable supply chains. </p>
-          <p><a href="#." class="btn btn-md btn-circle btn-light-outline mt-30">Meet The Team</a></p>
-        </div>
-      </div>
-    </div>
-  </section> -->
   <!--== Seccion Video ==-->
 
   <!--== Portfolio Start ==-->
@@ -370,247 +330,69 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
 
   <!-- GALERIA DE PRUEBA -->
 
-  <style>
-    .gallery-img {
-      height: 380px;
-      width: 350px;
-      transition: transform 0.3s ease;
-      object-fit: cover;
-      border-radius: 8px;
-    }
-
-    .zoom-container {
-      overflow: hidden;
-      
-    }
-
-    .zoom-container:hover .gallery-img {
-      transform: scale(1.1);
-    }
-    .py-4{
-      padding-left:8%;
-      padding-right:8%;
-    }
-  </style>
 
   <div class="container-full py-4">
   
-  <div class="row g-2">
-    <div class="col-6 col-md-4 col-lg-3">
-        <div class="zoom-container">
-          <img src="assets/images/portfolio/grid/IMG1.jpg" class="img-fluid gallery-img" alt="Servicio 1">
+      <div class="row g-2">
+        <div class="col-6 col-md-4 col-lg-3">
+            <div class="zoom-container">
+              <img src="assets/images/portfolio/grid/IMG1.jpg" class="img-fluid gallery-img" alt="Servicio 1">
+            </div>
+            <p class="text-center">Bancos de Baterias</p>
         </div>
-        <p class="text-center">Bancos de Baterias</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG2.jpg" class="img-fluid gallery-img" alt="Servicio 2">
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG2.jpg" class="img-fluid gallery-img" alt="Servicio 2">
+          </div>
+          <p class="text-center">UPS</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG3.jpg" class="img-fluid gallery-img" alt="Servicio 3">
+          </div>
+          <p class="text-center">Aires Acondicionados</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG4.png" class="img-fluid gallery-img" alt="Servicio 4">
+          </div>
+          <p class="text-center">CCTV</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG5.jpg" class="img-fluid gallery-img" alt="Servicio 5">
+          </div>
+          <p class="text-center">Motores Electricos</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG6.jpg" class="img-fluid gallery-img" alt="Servicio 6">
+          </div>
+          <p class="text-center">Cableado Estructurado</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG7.jpg" class="img-fluid gallery-img" alt="Servicio 7">
+          </div>
+          <p class="text-center">Tableros Electricos</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG8.png" class="img-fluid gallery-img" alt="Servicio 8">
+          </div>
+          <p class="text-center">Acumuladores Industriales</p>
+        </div>
       </div>
-      <p class="text-center">UPS</p>
     </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG3.jpg" class="img-fluid gallery-img" alt="Servicio 3">
-      </div>
-      <p class="text-center">Aires Acondicionados</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG4.png" class="img-fluid gallery-img" alt="Servicio 4">
-      </div>
-      <p class="text-center">CCTV</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG5.jpg" class="img-fluid gallery-img" alt="Servicio 5">
-      </div>
-      <p class="text-center">Motores Electricos</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG6.jpg" class="img-fluid gallery-img" alt="Servicio 6">
-      </div>
-      <p class="text-center">Cableado Estructurado</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG7.jpg" class="img-fluid gallery-img" alt="Servicio 7">
-      </div>
-      <p class="text-center">Tableros Electricos</p>
-    </div>
-    <div class="col-6 col-md-4 col-lg-3">
-      <div class="zoom-container">
-        <img src="assets/images/portfolio/grid/IMG8.png" class="img-fluid gallery-img" alt="Servicio 8">
-      </div>
-      <p class="text-center">Acumuladores Industriales</p>
-    </div>
-  </div>
-</div>
-  <!-- GALERIA DE PRUEBA -->
-  <!--
-    <div class="container-fluid">
-      <div class="row mt-50">
-        <div class="col-md-12">
-          <div id="portfolio-gallery" class="cbp">
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/10.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Bancos de Baterias</h3>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
 
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/11.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>UPS</h3>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/12.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Sydney Design</h3>
-                          <p>Design, Stationery</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/13.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Brown Bag</h3>
-                          <p>Branding, UI/UX</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/14.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Hungry Beast</h3>
-                          <p>Design, Branding</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/15.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Flyer</h3>
-                          <p>Branding, Stationery</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/16.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Material</h3>
-
-                          <p>Design, UI/UX</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="cbp-item col-md-3 col-sm-6 with-spacing">
-              <div class="portfolio-item border-white-15">
-                <a href="#">
-                  <img src="assets/images/portfolio/grid/17.jpg" alt="">
-                  <div class="portfolio-info gradient-bg-two">
-                      <div class="centrize">
-                        <div class="v-center white-color">
-                          <h3>Fode</h3>
-                          <p>Branding, UI/UX</p>
-                        </div>
-                      </div>
-                    </div>
-                </a>
-              </div>
-            </div>-->
 
 
           </div>
         </div>
-
         </div>
     </div>
   </section>
-
   <!--== Portfolio End ==-->
-
-  <!--== Clients Start 
-  <div class="grey-bg pb-120 pt-120">
-    <div class="container">
-      <div class="row">
-        <div class="client-slider slick">
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/1.png" alt="01"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/2.png" alt="02"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/3.png" alt="03"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/4.png" alt="04"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/5.png" alt="05"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/6.png" alt="06"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/7.png" alt="07"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/8.png" alt="08"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/9.png" alt="09"/> </div>
-          <div class="client-logo"> <img class="img-responsive" src="assets/images/clients/10.png" alt="10"/> </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  Clients End ==-->
-
   <!--== Contact Start ==-->
   <section class="white-bg transition-none" id="ubicacion">
     <div class="container-fluid">
@@ -651,8 +433,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                 <p class="mb-0 mt-30">Mobile: +57 312 312 0683</p>
                 <p class="mb-0">Whatsapp: +57 312 312 0683</p>
               </div>
-            </div>
-            
+            </div>            
             <div class="col-md-6 col-sm-6 col-xs-12">
               <div class="section-title">
                 <h2 class="raleway-font secondary-color">Ubicación</h2>
@@ -667,15 +448,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                 <h2 class="raleway-font secondary-color">Correo</h2>
                 <p class="mb-0 mt-30">Correo : ghenergiasas@gmail.com</p>
               </div>
-            </div>
-            <!--
-            <div class="col-md-6 col-sm-6 col-xs-12">
-              <div class="section-title">
-                <h2 class="raleway-font secondary-color">Fast Support</h2>
-                <p class="mb-0 mt-30">Support : support@yourwebsite.com</p>
-                <p class="mb-0">Career : career@yourwebsite.com</p>
-              </div>
-            </div>-->
+            </div>            
           </div>
           <div class="row mt-20">
               <div class="col-md-12 social-icons-style-06">
@@ -720,17 +493,7 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
                   <textarea name="message" class="md-textarea" id="message" rows="7" placeholder="Cuentanos de tu interes" required data-error="Por favor, detalla tu mensaje"></textarea>
                   <div class="help-block with-errors"></div>
                 </div>
-              </div><!--
-              <div class="col-md-12 col-sm-12">
-
-                  <select name="orderby" class="orderby">
-                    <option value="" selected="selected">$500 - $1000</option>
-                    <option value="">$1000 - $2000</option>
-                    <option value="">$2000 - $5000</option>
-                  </select> <input type="hidden" name="paged" value="1">
-                  <input type="hidden" name="min_price" value="20"><input type="hidden" name="max_price" value="290">
-
-              </div>-->
+              </div>
               <div class="col-md-12 col-sm-12">
                 <div class="text-left mt-20">
                   <button type="submit" name="submit" class="btn btn-outline btn-md btn-circle btn-animate remove-margin"><span>Enviar Mensaje <i class="ion-android-arrow-forward"></i></span></button>
@@ -793,6 +556,41 @@ Holisticly predominate extensible testing procedures for reliable supply chains.
 <script src="revolution/js/revolution.extension.parallax.min.js"></script>
 <script src="revolution/js/revolution.extension.slideanims.min.js"></script>
 <script src="revolution/js/revolution.extension.video.min.js"></script>
+<script>
+document.getElementById("contact-form").addEventListener("submit", async function(e) {
+  e.preventDefault();
+
+  const form = e.target;
+  const formData = new FormData(form);
+  const messageBox = document.querySelector(".messages");
+
+  try {
+    const response = await fetch(form.action, {
+      method: "POST",
+      body: formData
+    });
+
+    const result = await response.json();
+
+    messageBox.innerHTML = `
+      <div class="alert alert-${result.status === 'success' ? 'success' : 'danger'}">
+        ${result.message}
+      </div>
+    `;
+
+    if (result.status === 'success') {
+      form.reset();
+    }
+  } catch (error) {
+    messageBox.innerHTML = `
+      <div class="alert alert-danger">
+        Ocurrió un error al enviar el formulario.
+      </div>
+    `;
+  }
+});
+</script>
+
 <!--== Javascript Plugins End ==-->
 </body>
 </html>

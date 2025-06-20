@@ -8,6 +8,25 @@
       transform: scale(1.02);
       transition: transform 0.3s ease;
     }
-    html {
-      scroll-behavior: smooth;
+
+
+    .gallery-img {
+      height: 380px;
+      width: 350px;
+      transition: transform 0.3s ease;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .zoom-container {
+      overflow: hidden;
+      
+    }
+
+    .zoom-container:hover .gallery-img {
+      transform: scale(1.1);
+    }
+    .py-4{
+      padding-left:8%;
+      padding-right:8%;
     }
