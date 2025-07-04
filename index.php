@@ -382,6 +382,24 @@
           </div>
           <p class="text-center">Acumuladores Industriales</p>
         </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG9.png" class="img-fluid gallery-img" alt="Servicio 9">
+          </div>
+          <p class="text-center">Mantenimiento a Ascensores</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG10.png" class="img-fluid gallery-img" alt="Servicio 10">
+          </div>
+          <p class="text-center">Instalacion Repuestos</p>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="zoom-container">
+            <img src="assets/images/portfolio/grid/IMG11.jpg" class="img-fluid gallery-img" alt="Servicio 11">
+          </div>
+          <p class="text-center">Modernización a la Norma</p>
+        </div>
       </div>
     </div>
 
